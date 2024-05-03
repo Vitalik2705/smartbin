@@ -1,0 +1,48 @@
+.bin-card-container {
+   background-color: #ffffff; /* Колір фону контейнера */
+   padding: 20px; /* Відступи всередині контейнера */
+   border: 1px solid #e0e0e0; /* Рамка контейнера */
+   border-radius: 8px; /* Закруглені кути контейнера */
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Тінь контейнера */
+}
+
+.type-name {
+   font-size: 16px; /* Розмір шрифту для назви типу */
+   font-weight: bold; /* Жирний шрифт для назви типу */
+   color: #333333; /* Колір тексту */
+   font-family: FreeMono, monospace;
+}
+
+.fill-level {
+   font-size: 14px; /* Розмір шрифту для рівня заповненості */
+   color: #666666; /* Колір тексту */
+   font-family: FreeMono, monospace;
+}
+
+.bin-details h3 {
+   font-size: 18px; /* Розмір шрифту для заголовку смітника */
+   font-weight: bold; /* Жирний шрифт для заголовку смітника */
+   color: #333333; /* Колір тексту */
+   margin-bottom: 10px; /* Відступ знизу від заголовку */
+   font-family: FreeMono, monospace;
+}
+
+.bin-details p {
+   font-size: 14px; /* Розмір шрифту для опису смітника */
+   color: #666666; /* Колір тексту */
+   margin-bottom: 10px; /* Відступ знизу від параграфу */
+   font-family: FreeMono, monospace;
+}
+
+.add-bin-button-style {
+   width: 170px;
+   background: #00c391 !important;
+   color: #fff !important;
+   font-family: FreeMono, monospace;
+}
+
+.add-bin-button-style:hover {
+   color: #00c391 !important;
+   background: #f5faff !important;
+   border-color: #f5faff !important;
+}

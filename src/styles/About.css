@@ -1,0 +1,18 @@
+.about-large-font {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333; /* Колір тексту */
+}
+
+.about-medium-font {
+    font-size: 1.2rem;
+    line-height: 1.5; /* Міжрядковий інтервал */
+    color: #666; /* Колір тексту */
+    padding: 5px;
+}
+
+.about img {
+    max-width: 100%; /* Зображення має бути адаптивним і не виходити за межі контейнера */
+    border-radius: 8px; /* Закруглені кути */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тінь для зображення */
+}

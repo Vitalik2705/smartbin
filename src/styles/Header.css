@@ -1,0 +1,57 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    height: 80px;
+    background-color: white;
+}
+
+.header-logo {
+    font-size: 26px;
+    font-weight: bold;
+    color: #00c391;
+    font-family: FreeMono, monospace;
+}
+
+.header-list-elements-element-link {
+    text-decoration: none;
+}
+
+.header-list-elements-element {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    font-family: FreeMono, monospace;
+}
+
+.header-list-elements-element:hover {
+    text-decoration: underline;
+}
+
+.user-initials-circle {
+    background-color: #00c391;
+    color: white;
+}
+
+.button-style {
+    width: 100px;
+    background: #00c391 !important;
+    color: #fff !important;
+    font-family: FreeMono, monospace;
+}
+
+.button-style:hover {
+    color: #00c391 !important;
+    background: #f5faff !important;
+    border-color: #f5faff !important;
+}
+
+.user-balance {
+    font-size: 16px;
+    color: #555;
+    font-family: FreeMono, monospace;
+}
+

@@ -1,0 +1,56 @@
+.login {
+    overflow: hidden;
+    height: auto;
+}
+
+.login-head-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00c391;
+    font-family: FreeMono, monospace;
+}
+
+.login-head-text {
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    font-family: FreeMono, monospace;
+}
+
+.login-input {
+    width: 300px;
+}
+
+.login-input:hover {
+    border-color: #00c391 !important;
+}
+
+.login-without-account{
+    text-decoration: none;
+    color: #004100;
+    font-size: 14px;
+    font-family: FreeMono, monospace;
+}
+
+.login-without-account:hover{
+    color: #00410075;
+}
+
+.login-copyright {
+    font-size: 14px;
+    color: #777;
+    font-family: FreeMono, monospace;
+}
+
+.login-button-style {
+    width: 300px;
+    background: #00c391 !important;
+    color: #fff !important;
+    font-family: FreeMono, monospace;
+}
+
+.login-button-style:hover {
+    color: #00c391 !important;
+    background: #f5faff !important;
+    border-color: #f5faff !important;
+}

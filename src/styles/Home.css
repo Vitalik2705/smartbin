@@ -1,0 +1,16 @@
+.home {
+    margin-top: 70px;
+}
+
+.home-big-text {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: FreeMono, monospace;
+}
+
+.home-medium-text {
+    font-size: 22px;
+    font-weight: normal;
+    font-family: FreeMono, monospace;
+    line-height: 1.5;
+}

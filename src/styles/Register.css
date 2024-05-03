@@ -1,0 +1,16 @@
+.register-input:hover {
+    border-color: #00c391 !important;
+}
+
+.register-button-style {
+    width: 300px;
+    background: #00c391 !important;
+    color: #fff !important;
+    font-family: FreeMono, monospace;
+}
+
+.register-button-style:hover {
+    color: #00c391 !important;
+    background: #f5faff !important;
+    border-color: #f5faff !important;
+}

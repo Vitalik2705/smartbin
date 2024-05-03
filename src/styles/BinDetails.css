@@ -1,0 +1,29 @@
+.bin-details-main-text {
+    font-weight: bold;
+    font-family: FreeMono, monospace;
+    font-size: 48px; /* збільшено розмір */
+    line-height: 1.2; /* збільшено міжрядковий інтервал */
+    color: #333; /* контрастний колір */
+}
+
+.bin-details-medium-text {
+    font-weight: normal; /* використано 'normal' замість 'lighter' для кращої видимості */
+    font-family: FreeMono, monospace;
+    font-size: 28px; /* збільшено розмір */
+    line-height: 1.3; /* збільшено міжрядковий інтервал */
+    color: #666; /* менш контрастний колір */
+}
+
+.bin-type-name {
+    font-weight: normal;
+    font-family: FreeMono, monospace;
+    font-size: 24px;
+    color: #666; /* менш контрастний колір */
+}
+
+.bin-details-small-text {
+    font-family: FreeMono, monospace;
+    font-size: 20px;
+    line-height: 1.5; /* збільшено міжрядковий інтервал */
+    color: #666; /* менш контрастний колір */
+}

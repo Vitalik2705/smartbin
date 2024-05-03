@@ -1,0 +1,38 @@
+.footer {
+    padding: 20px;
+    bottom: 0;
+    background-color: white;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: auto;
+}
+
+.footer-logo-name {
+    margin-left: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: FreeMono, monospace;
+    color: #00c391;
+}
+
+.footer-text {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: FreeMono, monospace;
+    cursor: pointer;
+}
+
+.footer-text-img {
+    width: 30px;
+    height: 30px;
+}
+
+.footer-text-link {
+    text-decoration: none;
+    color: #000000;
+}
+
+.footer-text-link:hover {
+    text-decoration: none;
+    color: #00c391;
+}
